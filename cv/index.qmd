@@ -6,7 +6,7 @@ execute:
   freeze: true
 engine: knitr
 cv:
-  pdf: "/Users/adrianamiller/Documents/Documents - Adriana’s MacBook Air - 1/CV:Jobs/CV/Miller CV.pdf"
+  pdf: "/Users/adrianamiller/Documents/Documents - Adriana’s MacBook Air - 1/Jobs/CV/Miller CV.pdf"
   # download: "https://drive.google.com/uc?export=download&id=164AYatDLuezkzCWwCWsUMb84lNfotpIc"
 ---
 
