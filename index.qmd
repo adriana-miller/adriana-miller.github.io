@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "img/miller_headshot.jpeg"
+  image: "img/miller_headshot.jpg"
   links:
     - icon: github
       text: Github
@@ -18,11 +18,11 @@ about:
 ::: {#about-block}
 :::
 
-# Hi, I'm Adriana Welcome to my website!
+# Hi, I'm Adriana!
 
 
 I am an interdisciplinary psychology and language science graduate researcher in the [Bilingualism and Linguistic Diversity Lab](https://bild.la.psu.edu/) at The Pennsylvania State University (PI Janet van Hell). I use a combination of behavioral and neurocognitive methods (mainly EEG) to study how we learn, understand, and communicate novel meanings using language. Specifically, I am interested in topics such as novel word learning, creative language production, and novel metaphor comprehension. I focus on monolingual as well bilingual populations, and have a particular interest for second language learning and comprehension. 
 
 I am currently in my 6th year as a graduate student in Psychology and Language Science with a Specialization in Cognitive and Affective Neuroscience at Penn State. I earned my M.S. in Psychology from Penn State in 2023. I completed my B.A. in Psychology and Sociology, with a minor in Global Studies from the University of Nebraska-Lincoln (summa cum laude) in 2021. 
 
-In addition to my research, I also enjoy teaching and mentoring. I taught an upper-level psychology class about my favorite subject—Language and Thought—in Fall 2025, and am currently preparing to teach PSYCH 100 this fall! I am lucky to get to work with many amazing undergraduate research assistants in the BiLD Lab. I am currently working with two students who are trained to assist with data collection for my dissertation. Outside of the lab, I like to try new recipes, read lots of books, and go rock climbing! 
+In addition to my research, I also enjoy teaching and mentoring. I taught an upper-level psychology class about my favorite subject—Language and Thought—in Fall 2025, and am currently preparing to teach PSYCH 100 this fall! I am also lucky to get to work with many amazing undergraduate research assistants in the BiLD Lab. Outside of the lab, I like to try new recipes, read lots of books, and go rock climbing! 
