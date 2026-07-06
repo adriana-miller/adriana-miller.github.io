@@ -1,0 +1,32 @@
+---
+title: Research
+---
+
+## Core Research
+
+I use a combination of behavioral and neurocognitive methods (mainly EEG)to study how we learn, understand, and communicate novel meanings using language. Specifically, I am interested in topics such as novel word learning, creative language production, and novel metaphor comprehension. I focus on monolingual as well bilingual populations, and have a particular interest for second language learning and comprehension. 
+
+### Novel Word Learning
+
+My dissertation investigates how we learn new words. Specifically, I conducted a two-session study in which participants learned new words on Day 1 then returned to the lab on Day 2 to learn more words. They were then tested on both sets of words. I compared words learned today with words learned yesterday to investigate the effects of overnight consolidation on word learning. I compared two types of novel words—ones that could readily connect to existing concepts and ones that could not—to test the boundaries of the Complementary Learnings System theory of overnight consolidation. Additionally, I investigated word learning in two populations, English monolinguals learning novel words in their native language English, and Spanish-English bilinguals learning novel words in their L2, and investigated individual differences in both groups. 
+
+### Novel Idea Production
+
+One of the unique aspects of human language is that we can communicate an infinite number of of ideas, including novel or creative ideas. I worked on an NSF-funded research project to investigate the neural processes underlying creative language production, specifically investigating the effect of supportive or unsupportive feedback on participants’ creative performance. We found that after receiving feedback (whether supportive or unsupportive), participants produced fewer but more highly original responses and showed increased alpha power (associated with increased internally directed attention, supporting creative thinking processes). In further analyses, we found decreased beta-band activity before feedback only in the unsupportive condition, possibly reflecting increased cognitive stress and internally directed attention required to adjust performance in the post-feedback phase. Our manuscript was published in 2026 in Neuropsychologia. (Download [here](AcceptedManuscript_Neuropsychologia.pdf))
+
+### Novel Metaphor Comprehension
+
+My masters work, published in 2025 in Psychophysiology, (Download [here](Psychophysiology - 2025 - Miller - Unlocking Second Language Novel Metaphor Processing  Behavioral and ERP Insights From)) investigated how Chinese-English bilinguals comprehend novel metaphors in their second language, English. We compared processing of literal, novel metaphorical, and anomalous sentences. Compared to monolingual English speakers (who show a typical “graded” N400 effect to these three sentence types, with larger N400 responses to anomalous than to novel metaphorical than to literal sentences), bilinguals processing in their L2 show only an N400 effect for anomalous sentences, with no difference between literal and novel metaphorical sentences. These results demonstrate that creative language processing (specifically novel metaphorical processing) may be more effortful in an individual’s second language. 
+
+## Other Research
+
+In addition other my main research line focusing on novel aspects of language use, I have conducted research in adjacent research areas as well. 
+
+### Vocal Emotion Recognition
+
+I received an NSF-funded Partnerships for International Research and Education Fellowship in Summer 2023 to conduct research for two months at Radboud University in Nijmegen, the Netherlands. Here I investigated emotion recognition in Dutch-English bilinguals’ first and second language, and two languages they did not know. We found that emotion recognition was equally high for Dutch and English, indicating that (contrary to popular theories of emotion recognition) emotion recognition can be learned to a high level even of a non-native speaker and individual who is not a member of a particular cultural in-group. This work is currently under review. 
+
+### Bi-Dialectal Language Processing
+
+As a graduate research assistant on an NSF-funded collaboration between my PI Janet van Hell and collaborator Abby Walker (Virginia Tech) I gained experience with EEG fieldwork! Over three years, I collected EEG data at Penn State and additionally, traveled to Southwest Virginia four times with our Mobile EEG System to conduct EEG studies at multiple locations around the SWVA area including at Virginia Tech and in community colleges and community event centers in various towns. This project is interested in differences in mono-dialectal versus bi-dialectal processing of Mainstream and Southern American English. We have published the results from the pilot study for this project here. 
+
